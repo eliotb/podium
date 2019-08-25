@@ -5,9 +5,9 @@ class: title
 
 ???
 
-These are the speakers notes. They let the speaker know what they need to know. All work an no play makes jack a dull boy.
+These are the speakers notes. They let the speaker know what they need to know. All work and no play makes jack a dull boy.
 
-All work an no play makes jack a dull boy. All work an no play makes jack a dull boy. All work an no play makes jack a dull boy. All work an no play makes jack a dull boy. All work an no play makes jack a dull boy.
+All work and no play makes jack a dull boy. All work and no play makes jack a dull boy. All work and no play makes jack a dull boy. All work and no play makes jack a dull boy. All work and no play makes jack a dull boy.
 
 ---
 
@@ -102,7 +102,7 @@ commons.wikimedia.org/wiki/File:Red_Kitten_01.jpg
 ---
 class: screenshot
 
-![A Farenheit to Celsius converter app](screenshot.png)
+![A Fahrenheit to Celsius converter app](screenshot.png)
 
 # A screenshot
 
